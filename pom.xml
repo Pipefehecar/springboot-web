@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.lab.pipefehecar</groupId>
-    <artifactId>sprintboot-web</artifactId>
+    <artifactId>springboot-web</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>sprintboot-web</name>
     <description>sprintboot-web</description>

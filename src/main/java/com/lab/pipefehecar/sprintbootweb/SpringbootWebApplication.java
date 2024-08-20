@@ -2,12 +2,16 @@ package com.lab.pipefehecar.sprintbootweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.web.bind.annotation.RequestMapping;
+
 
 @SpringBootApplication
-public class SprintbootWebApplication {
-
+public class SpringbootWebApplication {
     public static void main(String[] args) {
-        SpringApplication.run(SprintbootWebApplication.class, args);
+        SpringApplication.run(SpringbootWebApplication.class, args);
     }
 
 }
+
+
+
