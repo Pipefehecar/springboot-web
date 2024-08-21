@@ -1,6 +1,6 @@
-package com.lab.pipefehecar.sprintbootweb.controllers;
+package com.lab.pipefehecar.springbootweb.controllers;
 
-import com.lab.pipefehecar.sprintbootweb.models.dto.ParamDto;
+import com.lab.pipefehecar.springbootweb.models.dto.ParamDto;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

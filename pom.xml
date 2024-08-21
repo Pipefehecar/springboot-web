@@ -11,8 +11,8 @@
     <groupId>com.lab.pipefehecar</groupId>
     <artifactId>springboot-web</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sprintboot-web</name>
-    <description>sprintboot-web</description>
+    <name>springboot-web</name>
+    <description>springboot-web</description>
     <url/>
     <licenses>
         <license/>

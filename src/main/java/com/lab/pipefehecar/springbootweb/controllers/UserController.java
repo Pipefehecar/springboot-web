@@ -1,6 +1,6 @@
-package com.lab.pipefehecar.sprintbootweb.controllers;
+package com.lab.pipefehecar.springbootweb.controllers;
 
-import com.lab.pipefehecar.sprintbootweb.models.User;
+import com.lab.pipefehecar.springbootweb.models.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

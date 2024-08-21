@@ -1,6 +1,6 @@
-package com.lab.pipefehecar.sprintbootweb.controllers;
+package com.lab.pipefehecar.springbootweb.controllers;
 
-import com.lab.pipefehecar.sprintbootweb.models.dto.ParamDto;
+import com.lab.pipefehecar.springbootweb.models.dto.ParamDto;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.*;
 

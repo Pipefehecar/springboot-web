@@ -1,4 +1,4 @@
-package com.lab.pipefehecar.sprintbootweb.models.dto;
+package com.lab.pipefehecar.springbootweb.models.dto;
 
 public class ParamDto {
     private String message;

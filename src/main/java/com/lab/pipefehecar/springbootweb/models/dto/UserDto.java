@@ -1,6 +1,6 @@
-package com.lab.pipefehecar.sprintbootweb.models.dto;
+package com.lab.pipefehecar.springbootweb.models.dto;
 
-import com.lab.pipefehecar.sprintbootweb.models.User;
+import com.lab.pipefehecar.springbootweb.models.User;
 
 public class UserDto {
     private String title;

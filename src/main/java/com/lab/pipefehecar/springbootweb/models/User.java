@@ -1,4 +1,4 @@
-package com.lab.pipefehecar.sprintbootweb.models;
+package com.lab.pipefehecar.springbootweb.models;
 
 public class User {
     private String name;
